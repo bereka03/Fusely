@@ -468,6 +468,9 @@ footer ul {
     .img-wrapper {
         width: 100%;
     }
+    .clients {
+        gap: 45px;
+    }
     .pricing-header {
         margin-bottom: 40px;
     }
